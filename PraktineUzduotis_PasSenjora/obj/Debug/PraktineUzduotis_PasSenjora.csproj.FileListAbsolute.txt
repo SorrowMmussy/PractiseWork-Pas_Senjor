@@ -1,0 +1,109 @@
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\bin\Debug\data.mdf
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\bin\Debug\data_log.ldf
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\bin\Debug\PraktineUzduotis_PasSenjora.exe.config
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\bin\Debug\PraktineUzduotis_PasSenjora.exe
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\bin\Debug\PraktineUzduotis_PasSenjora.pdb
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csprojResolveAssemblyReference.cache
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.g.cs
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\App.g.cs
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora_Content.g.cs
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora_MarkupCompile.cache
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora_MarkupCompile.lref
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.baml
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.g.resources
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.Properties.Resources.resources
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csproj.GenerateResource.Cache
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.exe
+c:\users\denas\documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.pdb
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\bin\Debug\data.mdf
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\bin\Debug\data_log.ldf
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\bin\Debug\PraktineUzduotis_PasSenjora.exe.config
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\bin\Debug\PraktineUzduotis_PasSenjora.exe
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\bin\Debug\PraktineUzduotis_PasSenjora.pdb
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csprojResolveAssemblyReference.cache
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.g.cs
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\App.g.cs
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora_Content.g.cs
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora_MarkupCompile.cache
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora_MarkupCompile.lref
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.baml
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.g.resources
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.Properties.Resources.resources
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csproj.GenerateResource.Cache
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.exe
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.pdb
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.g.cs
+C:\Users\Denas\Documents\visual studio 2017\Projects\PraktineUzduotis_PasSenjora\Pas-Senjor-\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.baml
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.g.cs
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.g.cs
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\App.g.cs
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.baml
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.baml
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.Properties.Resources.resources
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csproj.GenerateResource.Cache
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe.config
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.pdb
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_Content.g.cs
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.cache
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.lref
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.g.resources
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.exe
+C:\Users\Joey\Desktop\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.pdb
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe.config
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.pdb
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csprojResolveAssemblyReference.cache
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.g.cs
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.g.cs
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\App.g.cs
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_Content.g.cs
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.cache
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.lref
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.baml
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.baml
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.g.resources
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.Properties.Resources.resources
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csproj.GenerateResource.Cache
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.exe
+C:\Users\Denas\Downloads\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.pdb
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe.config
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.pdb
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csprojResolveAssemblyReference.cache
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\App.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_Content.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.cache
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.lref
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.baml
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.baml
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.g.resources
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.Properties.Resources.resources
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csproj.GenerateResource.Cache
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.exe
+C:\Users\Denas\Desktop\Pas-Senjor-FinalVersion (1)\Pas-Senjor--master\Pas-Senjor--master\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.pdb
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe.config
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.exe
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\bin\Debug\PasSenjora.pdb
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csprojResolveAssemblyReference.cache
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\App.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_Content.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.cache
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora_MarkupCompile.lref
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\MainWindow.baml
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\Register_Window.baml
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.g.resources
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.Properties.Resources.resources
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PraktineUzduotis_PasSenjora.csproj.GenerateResource.Cache
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.exe
+C:\Users\Denas\Desktop\Pas-Senjor\PraktineUzduotis_PasSenjora\obj\Debug\PasSenjora.pdb
